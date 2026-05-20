@@ -1,4 +1,4 @@
-# Hi, I'm Adrija 👋
+# Hi! I'm Adrija 👋
 
 🎓 M.Sc. Data Science Postgraduate
 📊 Aspiring Data Analyst & BI Enthusiast
